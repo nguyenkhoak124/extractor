@@ -32,7 +32,7 @@ export default {
 
     setup () {
         return {
-            leftDrawerOpen: ref(false)
+            leftDrawerOpen: ref(true)
         }
     }
 }
